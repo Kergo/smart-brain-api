@@ -1,9 +1,9 @@
 # SmartBrain-api - v2
 Final project for Udemy course
 
-1. Run `npm install`
-2. Run `npm start`
-3. You must add your own API key in the `controllers/image.js` file to connect to Clarifai API.
+You must add your own API key in the `controllers/image.js` file to connect to Clarifai API.
+
+Run docker-compose up --build
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
